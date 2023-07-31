@@ -13,4 +13,5 @@ new code from some jun
 
 there is info from master branch
 
-Hello from githab!
+Hello from githab! 
+я внес изменения в чужой репозиторий в отдельно созданной ветке
